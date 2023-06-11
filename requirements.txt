@@ -1,0 +1,6 @@
+pySmartDL
+gunicorn
+tgcrypto
+pyrogram
+flask
+nest_asyncio
